@@ -11,7 +11,7 @@ The application source code lives in a separate private repository. Only the bui
 
 Visit **<https://oneclawhost.com/download>** to get the latest version for your platform.
 
-You can also browse all published versions on the [Releases page](https://github.com/aplomb2/Oneclaw_Desktop_Releases/releases).
+You can also browse all published versions on the [Releases page](https://github.com/runtopia/Oneclaw_Desktop_Releases/releases).
 
 ## Channels
 
@@ -23,7 +23,7 @@ You can also browse all published versions on the [Releases page](https://github
 
 ## Issues
 
-Found a bug or have feedback? Please open an [Issue](https://github.com/aplomb2/Oneclaw_Desktop_Releases/issues).
+Found a bug or have feedback? Please open an [Issue](https://github.com/runtopia/Oneclaw_Desktop_Releases/issues).
 
 ## License
 
